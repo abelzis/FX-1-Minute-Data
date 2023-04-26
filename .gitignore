@@ -104,5 +104,6 @@ ENV/
 
 # some data folders
 data/
-output/
-fixoutput/
+output*/
+fixoutput*/
+cleantick*/
